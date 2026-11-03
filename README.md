@@ -1,1 +1,1 @@
-# olga-projects
+This repository is for python, html, css projects 
